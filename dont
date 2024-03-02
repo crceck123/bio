@@ -1,0 +1,9 @@
+while true # start an infinite loop
+
+do
+
+  echo "dont" # print "dont"
+
+  sleep 1 # wait for 1 second
+
+done # end the loop
